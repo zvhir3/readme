@@ -2,8 +2,6 @@
 <h3 align="center">A passionate mobile developer from Cyberjaya</h3>
 
 [![zahiruddinzainal's GitHub | Stats](https://stats.quine.sh/zahiruddinzainal/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=zahiruddinzainal)
-[![zahiruddinzainal's GitHub | Languages Over Time](https://stats.quine.sh/zahiruddinzainal/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=zahiruddinzainal)
-[![zahiruddinzainal's GitHub | Topics Over Time](https://stats.quine.sh/zahiruddinzainal/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=zahiruddinzainal)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahiruddinzainal&label=Profile%20views&color=0e75b6&style=flat" alt="zahiruddinzainal" /> </p>
 
