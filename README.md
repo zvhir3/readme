@@ -6,12 +6,12 @@
 - 💬 Ask me about **Flutter, Swift**
 - 📫 How to reach me: **[hello@zahiruddin.com](mailto:hello@zahiruddin.com)**
 
-<p align="center">
-  <img src="https://stats.quine.sh/zahiruddinzainal/github?theme=dark" alt="zahiruddinzainal's GitHub Stats">
-</p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+  <img src="https://stats.quine.sh/zahiruddinzainal/github?theme=dark" alt="zahiruddinzainal's GitHub Stats">
+
+
+<h3 >Languages and Tools:</h3>
+<p>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
   </a>
