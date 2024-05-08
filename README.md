@@ -10,10 +10,10 @@
 
  <div style="display: flex;">
   <a href="https://stats.quine.sh/zahiruddinzainal/github?theme=dark" target="_blank" style="flex: 1; margin-right: 10px;">
-    <img src="https://stats.quine.sh/zahiruddinzainal/github?theme=dark" alt="zahiruddinzainal's GitHub Stats" style="height: 200px; width: auto;">
+    <img src="https://stats.quine.sh/zahiruddinzainal/github?theme=dark" alt="zahiruddinzainal's GitHub Stats" style="height: 400px; width: auto;">
   </a>
   <a href="https://stats.quine.sh/zahiruddinzainal/languages-over-time?theme=dark" target="_blank" style="flex: 1; margin-left: 10px;">
-    <img src="https://stats.quine.sh/zahiruddinzainal/languages-over-time?theme=dark" alt="zahiruddinzainal's GitHub Languages Over Time" style="height: 200px; width: auto;">
+    <img src="https://stats.quine.sh/zahiruddinzainal/languages-over-time?theme=dark" alt="zahiruddinzainal's GitHub Languages Over Time" style="height: 400px; width: auto;">
   </a>
 </div>
 
