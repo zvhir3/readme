@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zahiruddin Zainal</h1>
 <h3 align="center">A passionate mobile developer from Cyberjaya</h3>
 
-- 🔭 I’m currently working on [Najia App](https://apps.apple.com/th/app/najia-app/id6466347137)
+- 🔭 I’m currently working at [Aerodyne Group](https://aerodyne.group/)
 
 - 🌱 I’m currently learning **iOS best practices**
 
