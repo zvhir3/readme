@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zahiruddin Zainal</h1>
-<h3 align="center">A passionate mobile developer from Cyberjaya</h3>
+<h3 align="center">A passionate iOS developer from Cyberjaya</h3>
 
 - 🔭 I’m currently working at [Aerodyne Group](https://aerodyne.group/)
 
