@@ -10,7 +10,7 @@
 
 [![zahiruddinzainal's GitHub | Stats](https://stats.quine.sh/zahiruddinzainal/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=zahiruddinzainal)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zahiruddinzainal&" alt="zahiruddinzainal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zahiruddinzainal&theme=tokyonight" alt="zahiruddinzainal" /></p>
 
 <h3 >Languages and Tools:</h3>
 <p>
