@@ -8,8 +8,15 @@
 - 💡 Let's talk about architecture, design patterns, and best practices.
 - 📫 Reach me at: **[hello@zahiruddin.com](mailto:hello@zahiruddin.com)**.
 
-[![zahiruddinzainal's GitHub | Stats](https://stats.quine.sh/zahiruddinzainal/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=zahiruddinzainal)
-[![zahiruddinzainal's GitHub | Languages Over Time](https://stats.quine.sh/zahiruddinzainal/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=zahiruddinzainal)
+<div style="display: flex; justify-content: space-around;">
+  <a href="https://stats.quine.sh/zahiruddinzainal/github?theme=dark" target="_blank" style="flex: 1;">
+    <img src="https://stats.quine.sh/zahiruddinzainal/github?theme=dark" alt="zahiruddinzainal's GitHub Stats" style="width: 100%;">
+  </a>
+  <a href="https://stats.quine.sh/zahiruddinzainal/languages-over-time?theme=dark" target="_blank" style="flex: 1;">
+    <img src="https://stats.quine.sh/zahiruddinzainal/languages-over-time?theme=dark" alt="zahiruddinzainal's GitHub Languages Over Time" style="width: 100%;">
+  </a>
+</div>
+
 
 <h3 >Languages and Tools:</h3>
 <p>
