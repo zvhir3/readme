@@ -2,11 +2,16 @@
 <h3>Passionate iOS Developer from Cyberjaya</h3>
 
 - 🔭 I’m currently working at [Aerodyne Group](https://aerodyne.group/)
-- 🌱 I’m currently learning **iOS best practices**
-- 💬 Ask me about **Flutter, Swift**
-- 📫 How to reach me: **[hello@zahiruddin.com](mailto:hello@zahiruddin.com)**
+- 🌱 I’m currently learning **iOS best practices**.
+- 💬 Ask me about **Flutter, Swift**.
+- 📫 How to reach me: **[hello@zahiruddin.com](mailto:hello@zahiruddin.com)**.
 
+### More about me:
 
+- 🚁 Developing the Dronos App for DJI drones at [Aerodyne Group](https://aerodyne.group/).
+- 💼 Casually developing my [Najia App](https://apps.apple.com/th/app/najia-app/id6466347137) as side project.
+- 📚 Love to read self-enrichment books, explore Medium & tech articles.
+- 💡 Interested in architecture, design patterns, and best practices.
   <img src="https://stats.quine.sh/zahiruddinzainal/github?theme=dark" alt="zahiruddinzainal's GitHub Stats">
 
 
