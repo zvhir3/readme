@@ -1,18 +1,6 @@
 <h1 align="center">👋 Hello, I'm Zahiruddin Zainal</h1>
 <h3 align="center">Passionate iOS Developer from Cyberjaya</h3>
 
-<p align="center">
-  <a href="https://aerodyne.group/" target="_blank">
-    <img src="https://img.shields.io/badge/Currently%20at-Aerodyne%20Group-blue" alt="Currently at Aerodyne Group">
-  </a>
-  <a href="https://zahiruddin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-zahiruddin.com-green" alt="Website">
-  </a>
-  <a href="mailto:hello@zahiruddin.com">
-    <img src="https://img.shields.io/badge/Contact-Me-red" alt="Contact Me">
-  </a>
-</p>
-
 - 🔭 I’m currently working at [Aerodyne Group](https://aerodyne.group/)
 - 🌱 I’m currently learning **iOS best practices**
 - 💬 Ask me about **Flutter, Swift**
