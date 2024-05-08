@@ -8,19 +8,10 @@
 - 💡 Let's talk about architecture, design patterns, and best practices.
 - 📫 Reach me at: **[hello@zahiruddin.com](mailto:hello@zahiruddin.com)**.
 
-[![zahiruddinzainal's GitHub | Stats](https://stats.quine.sh/zahiruddinzainal/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=zahiruddinzainal)
-
+<h3 align="left">Commit Stats:</h3>
+<!-- [![zahiruddinzainal's GitHub | Stats](https://stats.quine.sh/zahiruddinzainal/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=zahiruddinzainal)
+ -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zahiruddinzainal&theme=tokyonight" alt="zahiruddinzainal" /></p>
 
-<h3 >Languages and Tools:</h3>
-<p>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
