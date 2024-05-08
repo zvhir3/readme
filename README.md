@@ -4,7 +4,7 @@
 - 🔭 I’m currently working at [Aerodyne Group](https://aerodyne.group/)
 - 🚁 Developing the Dronos App for DJI drones control.
 - 💼 Casually developing my [Najia App](https://apps.apple.com/th/app/najia-app/id6466347137) as side project.
-- 📚 Love to read self-enrichment books, explore Medium & tech articles.
+- 📚 Love to read self-enrichment books, explore medium & tech articles.
 - 💡 Let's talk about architecture, design patterns, and best practices.
 - 📫 Reach me at: **[hello@zahiruddin.com](mailto:hello@zahiruddin.com)**.
 
