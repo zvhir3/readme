@@ -10,6 +10,11 @@
 
 [![zahiruddinzainal's GitHub | Stats](https://stats.quine.sh/zahiruddinzainal/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=zahiruddinzainal)
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zahiruddinzainal&label=Profile%20views&color=0e75b6&style=flat" alt="zahiruddinzainal" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahiruddinzainal" alt="zahiruddinzainal" /></a> </p>
+
 <h3 >Languages and Tools:</h3>
 <p>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
