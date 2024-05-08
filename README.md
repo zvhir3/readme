@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zahiruddin Zainal</h1>
 <h3 align="center">A passionate mobile developer from Cyberjaya</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahiruddinzainal" alt="zahiruddinzainal" /></a> </p>
-
 - 🔭 I’m currently working on [Najia App](https://apps.apple.com/th/app/najia-app/id6466347137)
 
 - 🌱 I’m currently learning **iOS best practices**
