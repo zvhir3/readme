@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Zahiruddin Zainal</h1>
+<h1>👋 Hello, I'm Zahiruddin Zainal</h1>
 <h3>Passionate iOS Developer from Kuala Lumpur, Malaysia</h3>
 
 - 🔭 I’m currently working at [Aerodyne Group](https://aerodyne.group/)
