@@ -9,11 +9,11 @@
 - 📫 Reach me at: **[hello@zahiruddin.com](mailto:hello@zahiruddin.com)**.
 
  <div style="display: flex;">
-  <a href="https://stats.quine.sh/zahiruddinzainal/github?theme=dark" target="_blank" style="flex: 1; margin-right: 10px;">
+  <a href="https://stats.quine.sh/zahiruddinzainal/github?theme=dark" target="_blank" style="flex: 1; margin-right: 200px;">
     <img src="https://stats.quine.sh/zahiruddinzainal/github?theme=dark" alt="zahiruddinzainal's GitHub Stats" style="height: 50px; width: auto;">
   </a>
   <a href="https://stats.quine.sh/zahiruddinzainal/languages-over-time?theme=dark" target="_blank" style="flex: 1; margin-left: 10px;">
-    <img src="https://stats.quine.sh/zahiruddinzainal/languages-over-time?theme=dark" alt="zahiruddinzainal's GitHub Languages Over Time" style="height: 50px; width: auto;">
+    <img src="https://stats.quine.sh/zahiruddinzainal/languages-over-time?theme=dark" alt="zahiruddinzainal's GitHub Languages Over Time" style="height: 200px; width: auto;">
   </a>
 </div>
 
