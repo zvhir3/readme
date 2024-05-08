@@ -15,6 +15,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahiruddinzainal" alt="zahiruddinzainal" /></a> </p>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahiruddinzainal&show_icons=true&locale=en&layout=compact" alt="zahiruddinzainal" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zahiruddinzainal&show_icons=true&locale=en" alt="zahiruddinzainal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zahiruddinzainal&" alt="zahiruddinzainal" /></p>
+
+
 <h3 >Languages and Tools:</h3>
 <p>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
