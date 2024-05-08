@@ -10,11 +10,7 @@
 
 [![zahiruddinzainal's GitHub | Stats](https://stats.quine.sh/zahiruddinzainal/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=zahiruddinzainal)
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahiruddinzainal" alt="zahiruddinzainal" /></a> </p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zahiruddinzainal&" alt="zahiruddinzainal" /></p>
-
 
 <h3 >Languages and Tools:</h3>
 <p>
