@@ -10,8 +10,6 @@
 
 [![zahiruddinzainal's GitHub | Stats](https://stats.quine.sh/zahiruddinzainal/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=zahiruddinzainal)
 
-[![zahiruddinzainal's GitHub | Languages Over Time](https://stats.quine.sh/zahiruddinzainal/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=zahiruddinzainal)
-
 <h3 >Languages and Tools:</h3>
 <p>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
