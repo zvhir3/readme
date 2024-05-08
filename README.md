@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zahiruddin Zainal</h1>
 <h3 align="center">A passionate mobile developer from Cyberjaya</h3>
 
+[![zahiruddinzainal's GitHub | Stats](https://stats.quine.sh/zahiruddinzainal/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=zahiruddinzainal)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahiruddinzainal&label=Profile%20views&color=0e75b6&style=flat" alt="zahiruddinzainal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahiruddinzainal" alt="zahiruddinzainal" /></a> </p>
