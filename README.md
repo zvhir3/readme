@@ -13,5 +13,9 @@
  -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zahiruddinzainal&theme=tokyonight" alt="zahiruddinzainal" /></p>
 
+<figure><embed src="https://wakatime.com/share/@38915ecb-f7ac-4e29-8f3b-9bbed5a0e1ee/b556ee55-a005-4c73-b59c-be55e0a39610.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@38915ecb-f7ac-4e29-8f3b-9bbed5a0e1ee/f1d021df-6c0a-422a-8378-b73150fff47b.svg"></embed></figure>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
