@@ -1,6 +1,9 @@
 <h1>👋 Hello, I'm Zahiruddin Zainal</h1>
 <h3>Passionate iOS Developer from Kuala Lumpur, Malaysia</h3>
 
+[![wakatime](https://wakatime.com/badge/user/38915ecb-f7ac-4e29-8f3b-9bbed5a0e1ee.svg)](https://wakatime.com/@38915ecb-f7ac-4e29-8f3b-9bbed5a0e1ee)
+
+
 - 🔭 I’m currently working at [Aerodyne Group](https://aerodyne.group/)
 - 🚁 Developing the Dronos App for DJI drones control.
 - 💼 Casually developing my [Najia App](https://apps.apple.com/th/app/najia-app/id6466347137) as side project.
