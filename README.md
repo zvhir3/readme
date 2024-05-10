@@ -1,4 +1,4 @@
-<h1>👋 Hello, I'm Zahiruddin Zainal</h1> [![wakatime](https://wakatime.com/badge/user/38915ecb-f7ac-4e29-8f3b-9bbed5a0e1ee.svg)](https://wakatime.com/@38915ecb-f7ac-4e29-8f3b-9bbed5a0e1ee)
+<h1>👋 Hello, I'm Zahiruddin Zainal</h1>
 <h3>Passionate iOS Developer from Kuala Lumpur, Malaysia</h3>
 
 - 🔭 I’m currently working at [Aerodyne Group](https://aerodyne.group/)
@@ -7,6 +7,8 @@
 - 📚 Love to read self-enrichment books, explore medium & tech articles.
 - 💡 Let's talk about architecture, design patterns, and best practices.
 - 📫 Reach me at: **[hello@zahiruddin.com](mailto:hello@zahiruddin.com)**.
+
+[![wakatime](https://wakatime.com/badge/user/38915ecb-f7ac-4e29-8f3b-9bbed5a0e1ee.svg)](https://wakatime.com/@38915ecb-f7ac-4e29-8f3b-9bbed5a0e1ee)
 
 <h3 align="left">Commit Stats:</h3>
 <!-- [![zahiruddinzainal's GitHub | Stats](https://stats.quine.sh/zahiruddinzainal/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=zahiruddinzainal)
