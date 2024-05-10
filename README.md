@@ -13,10 +13,10 @@
  -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zahiruddinzainal&theme=tokyonight" alt="zahiruddinzainal" /></p>
 
-<h3 align="left">Coding Hours - tracked with [Aerodyne Group](https://aerodyne.group/)</h3>
+<h3 align="left">Coding Hours - tracked with <a href="https://wakatime.com/@38915ecb-f7ac-4e29-8f3b-9bbed5a0e1ee">Wakatime</a></h3>
 <p><img src="https://wakatime.com/share/@38915ecb-f7ac-4e29-8f3b-9bbed5a0e1ee/b556ee55-a005-4c73-b59c-be55e0a39610.svg" /></p>
 
-<h3 align="left">Languages over hours - tracked with [Wakatime](https://wakatime.com/@38915ecb-f7ac-4e29-8f3b-9bbed5a0e1ee)</h3>
+<h3 align="left">Languages over hours - tracked with <a href="https://wakatime.com/@38915ecb-f7ac-4e29-8f3b-9bbed5a0e1ee">Wakatime</a></h3>
 <p><img src="https://wakatime.com/share/@38915ecb-f7ac-4e29-8f3b-9bbed5a0e1ee/23611b31-bcb1-4b3f-9484-b6f42c339a83.svg"/></p>
 
 <h3 align="left">Languages and Tools:</h3>
